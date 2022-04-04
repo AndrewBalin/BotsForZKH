@@ -1,0 +1,91 @@
+<html>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Админ-панель
+  </title>
+    <link rel="stylesheet" href="Style.css" />
+  <style>
+   a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+  </style>
+ </head>
+ <body>
+ <table align="center" border="2">
+  <tr>
+    <th><button><a href="Панель.html">Меню состояния</a></button> </th>
+    <th><button><a href="Planer.html">Планинг</button> </th>
+    <th><button><a href="Answer.html">Распределитель ответов</button> </th>
+    <th><button><a href="Logs.html">Логи</button> </th>
+	<th><button><a href="Support.html">Техническая поддержка</button> </th>
+    <th><button>Выход</button> </th>	
+  </tr>
+  </table>
+    <p></p>
+    
+    <table align="left" border="1" height="100">
+        типа ответы
+        <?php
+        $db = new SQLite3('test3.db');
+        		$result = $db->exec("querySingle($sql)");
+        	echo $result;
+        ?>
+        </table>
+    
+   <table align="center" border="1" height="800">
+	<tr>
+    <th width="900" height = "50" class="text-1">Время работы: 00:00:00</th>	
+  </tr> 	
+    <th width="400">Текущие ответы, требующие распределения:
+	<p><textarea style="height: 100px; width: 250px;">ответ</textarea> </p>
+	<p><select>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	<option>Категория</option>
+	</select></p>
+    <button>сохранить</button>
+	</th>
+	</tr>
+
+  </table>
+  <!-- Комментарий 
+  <p>Первый абзац.</p>
+  <p>Второй абзац.</p> -->
+ </body>
+</html>

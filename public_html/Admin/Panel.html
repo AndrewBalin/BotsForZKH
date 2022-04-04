@@ -1,0 +1,70 @@
+<html>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Админ-панель</title>
+    <script src="https://www.google.com/jsapi"></script>
+  <script>
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'https://serg.zvezda72.ru/error/', false);
+    xhr.send();
+    if (xhr.status != 200) {
+      alert( xhr.status + ': ' + xhr.statusText );
+    } else {
+      mse_json = JSON.parse(xhr.responseText)    
+      mse = Math.floor(mse_json['mse']/1);
+    }
+
+   google.load("visualization", "1", {packages:["corechart"]});
+   google.setOnLoadCallback(drawChart);
+   function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+     ['Точность', 'Проценты'],
+     ['Верные', 100-mse],
+     ['Ложные', mse],
+    ]);
+    var options = {
+     title: 'Данные по минимальной квадратичной ошибке (' + mse_json['mse'] + ')',
+     is3D: true,
+     pieResidueSliceLabel: 'Остальное'
+    };
+    var chart = new google.visualization.PieChart(document.getElementById('reports'));
+     chart.draw(data, options);
+   }
+   
+  </script>
+      <style>
+   a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+
+  </style>
+	
+	<link rel="stylesheet" href="Style.css" />
+
+ </head>
+ <body>
+ 
+ <table align="center" border="2">
+  <tr>
+    <th><button><a href="Панель.html">Меню состояния</a></button> </th>
+    <th><button><a href="Planer.html">Планинг</button> </th>
+    <th><button><a href="Answer.html">Распределитель ответов</button> </th>
+    <th><button><a href="Logs.html">Логи</button> </th>
+	<th><button><a href="Support.html">Техническая поддержка</button> </th>
+    <th><button>Выход</button> </th>	
+  </tr>
+  </table>
+    <p></p>
+   <table align="center" border="1" height="800">
+	<tr>
+    <th width="900" height = "50" class="text-1">Время работы: 00:00:00</th>	
+  </tr>  
+  <tr>
+    <th width="900" height = "500"><div id="reports" style="width: 850px; height: 850px;" ></div></th>
+	</tr>
+
+  </table>
+  <!-- Комментарий 
+  <p>Первый абзац.</p>
+  <p>Второй абзац.</p> -->
+ </body>
+</html>

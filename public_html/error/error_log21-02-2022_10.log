@@ -1,0 +1,175 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"1996476038"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(57): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-463547833"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(57): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1720460821"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(57): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-66024528"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(57): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1640161158"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(57): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1167073830"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(57): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-209587485"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1288266384"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-66388406"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-759159877"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1608588713"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-936739621"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"1356615634"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"581934650"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"1486692842"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"1053599962"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"801307160"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: you should specify peer_id, user_id, domain, chat_id or user_ids param","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":""},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"btn_1\\\"}\",\"label\":\"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 1\"},\"color\":\"negative\"}]],\"inline\":true}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-549914087"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(419): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendButton(NULL, '\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x82\xD0\xB0\xD1\x8E!', Array, true)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"219327166"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1897430588"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(219327166, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"219327166"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1932505945"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(219327166, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"219327166"},{"key":"v","value":"5.81"},{"key":"random_id","value":"2128407781"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(219327166, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"662714180"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"2072126312"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"124731938"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(58): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000002"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-2060660288"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(59): DigitalStar\vk_api\vk_api->sendMessage(2000000002, NULL)
+#2 {main}

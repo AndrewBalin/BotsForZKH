@@ -1,0 +1,7 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"422404707"},{"key":"v","value":"5.81"},{"key":"random_id","value":"310987925"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/z/zvezda72/serg/public_html/simplevk-master/src/vk_api.php(392): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/z/zvezda72/serg/public_html/vkTESTbot.php(94): DigitalStar\vk_api\vk_api->sendMessage(422404707, NULL)
+#2 {main}
